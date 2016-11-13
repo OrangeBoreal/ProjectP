@@ -1,0 +1,29 @@
+---
+layout: default
+---
+<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+    <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
+    {% if page.author %}Par <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
+  </header>
+
+  <div class="post-content" itemprop="articleBody">
+    {{ content }}
+  </div>
+
+</article>
+<script type="text/javascript">
+  $(function() {
+    $(".post-content p").map(function(idx, e){
+      var first = true;
+      $(e).replaceWith(
+        $.map($(e).html().split("<br>"), function(se){
+          var paragraph_class = first ? "first" : "break"
+          first = false;
+          return "<p class='" + paragraph_class + "'>" + se + "</p>"
+        })
+      );
+    })
+  });
+</script>
