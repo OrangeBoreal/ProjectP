@@ -11,7 +11,7 @@ Même si Vision est au pré avec foin à volonté, il lui faudra un peu de grain
 
 "Alors non, je n'ai pas l'adresse, mais je vais t'expliquer. Tu sors, tu prends à droite, tu rejoins la route de Bailleul, encore à droite, il y a une station-service, tu tournes, tu suis la route jusqu'à Nieuwkerke (Neuve-Eglise), à gauche en rentrant, il y a des bâtiments industriels, il n'y a pas de panneau ni rien, normalement ils ne vendent qu'aux pros, mais si tu connais l'addresse, ils te vendront un sac. Demande du mélange pour chevaux, et prévois du liquide. "
 
-Hm, ok. Me voilà donc partie à travers la campagne flammande. Ah oui, parce que Nieppe, c'est la Porte des Flandres, comme le dit si joliment le site de l'office du tourisme, donc à 200m à droite, c'est la frontière (même si la route est trop petite pour mériter son panneau de changement de pays). Bon, j'ai trouvé sur la station-service, je suis sur la bonne route. A priori.
+Hm, ok. Me voilà donc partie à travers la campagne flamande. Ah oui, parce que Nieppe, c'est la Porte des Flandres, comme le dit si joliment le site de l'office du tourisme, donc à 200m à droite, c'est la frontière (même si la route est trop petite pour mériter son panneau de changement de pays). Bon, j'ai trouvé sur la station-service, je suis sur la bonne route. A priori.
 
 C'est long quand on ne connaît pas. Les grosses fermes qui parsèment la campagne à gauche pourraient toutes être des bâtiments industriels, avec leurs silos et leurs grosses machines. Peut-être suis-je déjà trop loin ? Ai-je raté Nieuwkerke ?
 
